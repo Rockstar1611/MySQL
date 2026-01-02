@@ -1,2 +1,2 @@
 # MySQL
-creating database of MySql Learning for fullstack developer
+creating databases of MySql ,Learning to add for a fullstack developer
